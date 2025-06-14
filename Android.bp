@@ -6,6 +6,7 @@ soong_namespace {
     imports: [
         "hardware/qcom-caf/sm8250",
         "vendor/xiaomi/sm8250-common",
+        "vendor/qcom/opensource/commonsys/display",
     ],
 }
 
